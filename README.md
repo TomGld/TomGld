@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, I'm Tom Fouet!
 
-Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuellement en formation pour devenir développeur web et d'applications. Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie.
+Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour devenir développeur web et d'applications. Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie.
 
 ## 🚀 Compétences actuelles :
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
