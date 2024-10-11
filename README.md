@@ -1,3 +1,7 @@
+DEVOPS : Docker
+JS, J, Php, html, css, 
+
+
 - 👋 Hi, I’m @TomGld
 - 👀 I’m interested in photography, informatics, digitals systems, ...
 - 🌱 I’m currently learning in a formation about developpement WEB and applications.
