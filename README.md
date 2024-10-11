@@ -60,7 +60,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
     <a href="mailto:Fouet.tom.pro@gmail.com" target="blank"
       ><img
         align="center"
-        src="Gmail-dark.svg"
+        src="Gmail-Dark.svg"
         alt="Mail Professionnel"
         height="50"
         width="60"
