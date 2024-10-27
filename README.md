@@ -53,7 +53,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
   <h1 align="center"> </h1>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/eymeric-marlier-8a2b1213a" target="blank"
+    <a href="https://linkedin.com/in/tom-fouet-" target="blank"
       ><img
         align="center"
         src="https://skillicons.dev/icons?i=linkedin"
