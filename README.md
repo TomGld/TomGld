@@ -50,7 +50,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
 
 <body>
 
-  <h1 align="center">Hi 👋, I'm Eymeric Marlier</h1>
+  <h1 align="center"> </h1>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/eymeric-marlier-8a2b1213a" target="blank"
@@ -127,7 +127,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
           </tr>
       </table>     
   <p align="left">
-    <a href="https://github.com/eymeric57?tab=repositories" target="_blank"
+    <a href="https://github.com/tomgld" target="_blank"
       ><img
         alt="All Repositories"
         title="All Repositories"
@@ -140,19 +140,18 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
   <br />
   
   <p align="center">
-    <a href="https://github.com/eymeric57">
+    <a href="https://github.com/tomgld">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=eymeric57&theme=radical&border=7F3FBF&background=0D1117"
+        src=""
         alt="Eymeric57 GitHub streak"
       />
     </a>
   </p>
   
   <p align="center">
-    <a href="https://github.com/eymeric57">
+    <a href="https://github.com/tomgld">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eymeric57&theme=radical"
-        alt="Al Eymeric57 GitHub Contribution"
+        src=""
       />
     </a>
   </p>
@@ -161,8 +160,8 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
     <a>
       <a href="https://github.com/eymeric57"
         ><img
-          alt="Al Eymeric57 Github Stats"
-          src="https://denvercoder1-github-readme-stats.vercel.app/api?username=eymeric57&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+          alt="Al tomgld Github Stats"
+          src=""
           height="192px"
           width="49.5%"
       /></a>
@@ -170,10 +169,10 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
 
 
 <a>
-      <a href="https://github.com/eymeric57"
+      <a href="https://github.com/tomgld"
         ><img
-          alt="Al Eymeric57 Top Languages"
-          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=eymeric57&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+          alt="Al tomgld Top Languages"
+          src=""
           height="192px"
           width="49.5%"
       /></a>
