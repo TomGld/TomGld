@@ -39,7 +39,7 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuelle
 - 🌍 Fan d'informatique
 - 🤹‍♂️ Polyvalent et curieux, j'adore apprendre et explorer différents sujets
 
-Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collaborer sur des projets intéressants !
+Merci de votre visite, n'hésitez pas à me contacter si besoin.
 
 
 
@@ -47,7 +47,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
 
 
 
-
+<!--
 <body>
 
   <h1 align="center"> </h1>
@@ -183,7 +183,7 @@ Merci de votre visite, n'hésitez pas à me contacter pour discuter ou collabore
   
   
 
-
+-->
 
 
 
