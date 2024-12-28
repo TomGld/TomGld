@@ -18,7 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hello, I'm Tom Fouet!
 
-Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour devenir développeur web et d'applications. Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie.
+Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour obtenir le titre de Concepteur Développeur web et d'Applications (CDA).
+Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie.
+Passionné de photographie, j'aime me pousser dans mes limites et m'exprimer à travers des images où je montre ma perception des choses !
+J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows.
 
 ## 🚀 Compétences actuelles :
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
