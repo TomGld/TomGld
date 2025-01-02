@@ -1,7 +1,4 @@
-DEVOPS : Docker
-JS, J, Php, html, css, 
-
-
+<!--
 - 👋 Hi, I’m @TomGld
 - 👀 I’m interested in photography, informatics, digitals systems, ...
 - 🌱 I’m currently learning in a formation about developpement WEB and applications.
@@ -10,37 +7,51 @@ JS, J, Php, html, css,
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 TomGld/TomGld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 -----------------
 
-# 👋 Hello, I'm Tom Fouet!
+# 👋 Hello (World), I'm Tom Fouet!
 
-Bienvenue sur mon profil GitHub ! Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour obtenir le titre de Concepteur Développeur web et d'Applications (CDA).
-Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie.
-Passionné de photographie, j'aime me pousser dans mes limites et m'exprimer à travers des images où je montre ma perception des choses !
-J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows.
+Bienvenue sur mon profil GitHub ! <br>
+Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour obtenir le titre de Concepteur Développeur d'Applications (et web) (CDA). <br>
+Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie (domotique, sites-web, NAS, ...). <br>
+Passionné de photographie, j'aime me pousser dans mes limites et m'exprimer à travers mes images où je montre ma perception des choses ! <br>
+J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
+
+# Mes liens :
+
 
 ## 🚀 Compétences actuelles :
+### Langages de programmation :
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🔧 Technologies que je vais maîtriser bientôt :
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Outils :
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Base de données :
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 🔧 Technologies que je vais étudier :
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Objet.
+
 
 ## 🎨 Passions :
 - 📸 Photographie
 - 🎥 Vidéographie
+- ⛰️ Exploration
 
 ## 💻 À propos de moi :
 - 🔭 Toujours en quête de nouvelles technologies
 - 🌍 Fan d'informatique
 - 🤹‍♂️ Polyvalent et curieux, j'adore apprendre et explorer différents sujets
+- 📲 Intègre les différentes technologies au seins de mon quotidient.
 
 Merci de votre visite, n'hésitez pas à me contacter si besoin.
 
