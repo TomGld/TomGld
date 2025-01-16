@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hello (World), I'm Tom Fouet!
 
 Bienvenue sur mon profil GitHub ! <br>
-Je suis un passionné d'informatique, actuellement en formation à L'IDEM CREATIVE ARTS SCHOOL pour obtenir le titre de Concepteur Développeur d'Applications (et web) (CDA). <br>
-Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie (domotique, sites-web, NAS, ...). <br>
-Passionné de photographie, j'aime me pousser dans mes limites et m'exprimer à travers mes images où je montre ma perception des choses ! <br>
-J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
+Passionné d'informatique <br>
+Centre de formation : L'IDEM CREATIVE ARTS SCHOOL section CDA, Concepteur Développeur d'Applications (& web). <br>
+Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie (domotique, réseaux, sites-web, NAS, ...). <br>
+Passionné de photographie, même à ma petite échelle, j'aime me pousser dans mes limites et m'exprimer à travers mes images où je montre ma perception des choses ! <br>
+Mes OS : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
 
 # Mes liens :
 
@@ -29,6 +30,7 @@ J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Outils :
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,11 +49,6 @@ J'utilise au quotidient : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
 - 🎥 Vidéographie
 - ⛰️ Exploration
 
-## 💻 À propos de moi :
-- 🔭 Toujours en quête de nouvelles technologies
-- 🌍 Fan d'informatique
-- 🤹‍♂️ Polyvalent et curieux, j'adore apprendre et explorer différents sujets
-- 📲 Intègre les différentes technologies au seins de mon quotidient.
 
 Merci de votre visite, n'hésitez pas à me contacter si besoin.
 
