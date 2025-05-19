@@ -13,23 +13,22 @@ You can click the Preview link to take a look at your changes.
 --->
 -----------------
 
-# 👋 Hello (World), I'm Tom Fouet!
+# 👋 Hello (World), I'm Tom Fouet !
 
 Bienvenue sur mon profil GitHub ! <br>
-Passionné d'informatique <br>
-Centre de formation : L'IDEM CREATIVE ARTS SCHOOL section CDA, Concepteur Développeur d'Applications (& web). <br>
-Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie (domotique, réseaux, sites-web, NAS, ...). <br>
-Passionné de photographie, même à ma petite échelle, j'aime me pousser dans mes limites et m'exprimer à travers mes images où je montre ma perception des choses ! <br>
-Mes OS : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
-
-# Mes liens :
+* Passionné d'informatique/numérique <br>
+* Centre de formation : L'IDEM CREATIVE ARTS SCHOOL section CDA, Concepteur Développeur d'Applications (& web). <br>
+* Polyvalent et toujours à la recherche de nouvelles connaissances, je m'intéresse à de nombreux domaines liés à la technologie (domotique, réseaux, sites-web, DATA, ...). <br>
+* Passionné de photographie, même à ma petite échelle, j'aime me pousser dans mes limites et m'exprimer à travers mes images où je montre ma perception des choses ! <br>
+* Je consacre beaucoup de temps à la sécurisation de l'information, à la fois pour mes besoins personnels et professionnels, c'est aussi pourquoi je souhaite en apprendre d'avantage tout en mettant mes compétences à profit ;) <br>
+* Mes OS : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
 
 
 ## 🚀 Compétences actuelles :
 ### Langages de programmation :
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![JavaScript et JavaScript Objet](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Outils :
@@ -39,22 +38,22 @@ Mes OS : Ios, iPadOs, MacOs, Android, Ubuntu, Windows. <br>
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🔧 Technologies que je vais étudier :
+## 🔧 Technologies que je vais étudier prochainement :
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Objet.
 
 
 ## 🎨 Passions :
+- 💻 Informatique
 - 📸 Photographie
 - 🎥 Vidéographie
 - ⛰️ Exploration
 
 
-Merci de votre visite, n'hésitez pas à me contacter si besoin.
+Merci de votre visite !
 
+## Vous souhaitez me contacter ?
 
-
-
+[Par mail : Fouet.Tom.Pro@gmail.com ](mailto:Fouet.tom.pro@gmail.com)
 
 
 
